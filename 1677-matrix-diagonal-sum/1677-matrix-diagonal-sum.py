@@ -3,14 +3,13 @@ class Solution:
         n = len(mat)
         total = 0
         for i in range(n):
-            total += mat[i][i]  # Primary diagonal
-            total += mat[i][n - 1 - i]  # Secondary diagonal
+            total += mat[i][i] 
+            total += mat[i][n - 1 - i]  
         
         if n % 2 == 1:
-            total -= mat[n // 2][n // 2]  # Subtract the center element once if n is odd
+            total -= mat[n // 2][n // 2]  
         return total
 
-# The following code is for testing purposes and should be included if needed
 def main():
     mat1 = [[1, 2, 3],
             [4, 5, 6],
@@ -22,9 +21,9 @@ def main():
     mat3 = [[5]]
     
     solution = Solution()
-    print(solution.diagonalSum(mat1))  # Output: 25
-    print(solution.diagonalSum(mat2))  # Output: 8
-    print(solution.diagonalSum(mat3))  # Output: 5
+    print(solution.diagonalSum(mat1))  
+    print(solution.diagonalSum(mat2)) 
+    print(solution.diagonalSum(mat3))  
 
 if __name__ == "__main__":
     main()

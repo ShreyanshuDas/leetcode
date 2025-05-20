@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ShreyanshuDas/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyanshuDas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShreyanshuDas/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyanshuDas/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyanshuDas/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyanshuDas/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyanshuDas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ShreyanshuDas/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0777-toeplitz-matrix) |

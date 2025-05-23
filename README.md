@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyanshuDas/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/ShreyanshuDas/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ShreyanshuDas/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/ShreyanshuDas/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->

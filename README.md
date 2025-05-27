@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyanshuDas/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshuDas/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/ShreyanshuDas/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShreyanshuDas/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShreyanshuDas/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShreyanshuDas/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShreyanshuDas/leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/ShreyanshuDas/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/ShreyanshuDas/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShreyanshuDas/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShreyanshuDas/leetcode/tree/master/0342-power-of-four) |

@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyanshuDas/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/ShreyanshuDas/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyanshuDas/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ShreyanshuDas/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShreyanshuDas/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShreyanshuDas/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ShreyanshuDas/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ShreyanshuDas/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShreyanshuDas/leetcode/tree/master/0069-sqrtx) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShreyanshuDas/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ShreyanshuDas/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/ShreyanshuDas/leetcode/tree/master/0861-flipping-an-image) |

@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyanshuDas/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ShreyanshuDas/leetcode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ShreyanshuDas/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ShreyanshuDas/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShreyanshuDas/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ShreyanshuDas/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
